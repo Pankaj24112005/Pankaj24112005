@@ -3,19 +3,16 @@
 <div align="center">
 
 ```text
-BOOTING AI OPERATING SYSTEM...
+┌──────────────────────────────────────┐
+│          USER AUTHENTICATED          │
+└──────────────────────────────────────┘
 
-██████████████████████████████████ 100%
-
-USER AUTHENTICATED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-NAME        : PANKAJ JADHAV
-ROLE        : AI ENGINEER IN TRAINING
-LOCATION    : PUNE, INDIA
-STATUS      : ONLINE
-MISSION     : BUILDING THE FUTURE WITH AI
-VERSION     : JARVIS v1.0
+NAME      :: PANKAJ JADHAV
+ROLE      :: AI ENGINEER IN TRAINING
+LOCATION  :: PUNE, INDIA
+STATUS    :: ONLINE
+MISSION   :: BUILDING THE FUTURE WITH AI
+VERSION   :: JARVIS v1.0
 
 SYSTEM CHECKS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
