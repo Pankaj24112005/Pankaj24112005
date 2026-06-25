@@ -1,25 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Pankaj Jadhav
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Engineer+in+Progress;Data+Science+%7C+GenAI+%7C+LLMs;Full+Stack+AI+Developer;Building+Real-World+Projects;100+Days+of+Code+Challenge+Completed+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=1100&lines=AI+%26+ML+Engineer+in+Progress;Data+Science+%7C+SQL+%7C+GenAI+%26+LLMs;Full+Stack+AI+Developer;Building+Real-World+Projects;100+Days+of+Data+Science+Challenge+Completed+🚀" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Pankaj24112005&label=Profile+Views&style=for-the-badge&color=4F46E5" />
+
+<img src="https://img.shields.io/github/followers/Pankaj24112005?label=Followers&style=for-the-badge&logo=github&color=4F46E5" />
+
+<img src="https://img.shields.io/github/stars/Pankaj24112005?affiliations=OWNER&style=for-the-badge&logo=github&color=44475A" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pankaj24112005&style=flat-square&color=4F46E5&label=PROFILE+VIEWS"/>
-
-<br><br>
+<a href="https://github.com/Pankaj24112005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/pankaj-jadhav-82453a2a7/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pankajjadhav1282@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pankaj24112005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -28,99 +32,69 @@
 
 # 🚀 About Me
 
-- 🎓 B.E. Student in **Artificial Intelligence & Machine Learning (AIML)**
-- 🤖 Passionate about **Machine Learning, Data Science & Generative AI**
-- 💻 Building **Full Stack AI Applications**
-- 🌱 Currently learning **LLMs, RAG, Cloud & System Design**
-- 🔥 Successfully completed the **100 Days of Data Science Challenge**
-- 🚀 Love building real-world projects and sharing knowledge
-- 📍 Pune, Maharashtra, India
-- 🤝 Open to internships, collaborations, and open-source contributions
+🎓 B.E. Student in **Artificial Intelligence & Machine Learning (AIML)**
+
+💻 Passionate about **Machine Learning, Data Science & Generative AI**
+
+🤖 Exploring **LLMs, RAG Systems & AI Agents**
+
+☁️ Learning **Cloud Computing, MLOps & System Design**
+
+🔥 Successfully completed the **100 Days of Data Science Challenge**
+
+🚀 Building real-world AI-powered applications and developer tools
+
+📍 Pune, Maharashtra, India
+
+🤝 Open to internships, collaborations and open-source contributions
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
 ### Data Science & Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 </p>
 
 ### Full Stack Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask" />
 </p>
 
 ### Database
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### Tools & Platforms
+### Cloud & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel,vscode" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔗 QRBridge
-
-> QR-Based File & URL Sharing Platform
-
-- Upload files instantly
-- Generate dynamic QR codes
-- Built using Flask & Python
-- Deployed on Render
-
----
-
-## 🤖 WhatsApp Message Scheduler
-
-> Schedule WhatsApp messages automatically using Python
-
-- Twilio Integration
-- Date & Time Scheduling
-- Automation using Python
-
----
-
-## 📚 Student Grades Management System
-
-> Desktop application using Python Tkinter
-
-- CRUD Operations
-- Student Record Management
-- GUI-Based Application
-
----
-
-## 🌐 Portfolio Website
-
-> Modern Full Stack Developer Portfolio
-
-- Next.js + Tailwind CSS
-- Admin Dashboard
-- Project Management System
-- Responsive Design
 
 ---
 
@@ -128,9 +102,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pankaj24112005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pankaj24112005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj24112005&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj24112005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -138,13 +112,13 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj24112005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj24112005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -154,28 +128,108 @@
 
 ---
 
-# 🏆 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj24112005&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankaj24112005&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pankaj24112005&theme=tokyonight"/>
-
-</div>
-
----
-
 # ⚡ Current Focus
 
 ```text
-🔭 Working On     : Full Stack AI Applications
-🌱 Learning       : LLMs, RAG, Cloud & MLOps
-👯 Looking For    : Open Source Collaborations
-💬 Ask Me About   : Python, SQL, ML, Data Science, GenAI
-🎯 Goal           : Become an AI Engineer
--->
+🔭 Building      : Full Stack AI Applications
+🌱 Learning      : LLMs, RAG, Cloud & MLOps
+👯 Collaborating : Open Source Projects
+💬 Ask Me About  : Python, SQL, ML, Data Science & GenAI
+🎯 Goal          : Become an AI Engineer
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 QRBridge
+
+* QR-Based File & URL Sharing Platform
+* Dynamic QR Generation
+* Flask Backend
+* Render Deployment
+
+## 🤖 WhatsApp Message Scheduler
+
+* Twilio API Integration
+* Automated Message Scheduling
+* Python-Based Automation Tool
+
+## 📚 Student Grades Management System
+
+* Python Tkinter GUI Application
+* CRUD Operations
+* Student Record Management
+
+## 🌐 Full Stack Portfolio Website
+
+* Next.js & Tailwind CSS
+* Admin Dashboard
+* Dynamic Project Management
+
+## 💳 Google Pay UPI QR Generator
+
+* Desktop Application
+* Dynamic UPI QR Generation
+* Python Tkinter Project
+
+## 📊 Customer Behavior Analysis
+
+* Data Analysis using Python
+* EDA & Visualization
+* SQL-Based Insights
+
+---
+
+# 📚 Currently Learning
+
+```text
+✓ Large Language Models (LLMs)
+✓ Retrieval-Augmented Generation (RAG)
+✓ MLOps & Cloud Computing
+✓ System Design
+✓ Advanced SQL
+✓ Deep Learning
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pankaj-jadhav-82453a2a7/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Pankaj24112005">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:pankajjadhav1282@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Learn. Build. Share. Repeat.
+
+> **"Small consistent efforts create extraordinary results."**
+
+Building the future with AI, one project at a time.
+
+</div>
