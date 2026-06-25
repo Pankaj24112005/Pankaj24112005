@@ -1,43 +1,21 @@
-# ⚡ J.A.R.V.I.S INITIALIZATION
+# 👋 Hey, I'm Pankaj Jadhav
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────┐
-│          USER AUTHENTICATED          │
-└──────────────────────────────────────┘
-
-NAME      :: PANKAJ JADHAV
-ROLE      :: AI ENGINEER IN TRAINING
-LOCATION  :: PUNE, INDIA
-STATUS    :: ONLINE
-MISSION   :: BUILDING THE FUTURE WITH AI
-VERSION   :: JARVIS v1.0
-
-SYSTEM CHECKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[✓] AI CORE ............... ONLINE
-[✓] DATA SCIENCE .......... ONLINE
-[✓] MACHINE LEARNING ...... ONLINE
-[✓] FULL STACK MODULE ..... ONLINE
-[✓] CLOUD SYSTEMS ......... LOADING
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=J.A.R.V.I.S+SYSTEM+ONLINE;AI+Engineer+In+Training;Data+Science+%7C+GenAI+%7C+LLMs;Building+Real-World+AI+Systems;Mission%3A+Become+An+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+in+Progress;Data+Science+%7C+SQL+%7C+GenAI+%26+LLMs;Building+Real-World+AI+Systems;100+Days+of+Data+Science+Challenge+Completed" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Pankaj24112005&label=SYSTEM+VISITS&style=for-the-badge&color=00D9FF" />
+<img src="https://komarev.com/ghpvc/?username=Pankaj24112005&label=Profile+Views&style=for-the-badge&color=4F46E5" />
 
-<img src="https://img.shields.io/github/followers/Pankaj24112005?label=ALLIES&style=for-the-badge&logo=github&color=00D9FF" />
+<img src="https://img.shields.io/github/followers/Pankaj24112005?label=Followers&style=for-the-badge&logo=github&color=4F46E5" />
 
-<img src="https://img.shields.io/github/stars/Pankaj24112005?affiliations=OWNER&style=for-the-badge&logo=github&color=0EA5E9" />
+<img src="https://img.shields.io/github/stars/Pankaj24112005?affiliations=OWNER&style=for-the-badge&logo=github&color=44475A" />
 
 <br><br>
 
 <a href="https://github.com/Pankaj24112005">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pankaj-jadhav-82453a2a7/">
@@ -52,55 +30,35 @@ SYSTEM CHECKS
 
 ---
 
-# 🧠 AI CORE PROFILE
+# 🚀 About Me
 
-```text
-NAME        : PANKAJ JADHAV
+🎓 B.E. Student in **Artificial Intelligence & Machine Learning (2023–2027)**
 
-DEGREE      : B.E. IN ARTIFICIAL INTELLIGENCE
-              AND MACHINE LEARNING
+💻 Passionate about **Machine Learning, Data Science & Generative AI**
 
-MISSION     : BUILD AI SYSTEMS THAT SOLVE
-              REAL-WORLD PROBLEMS
-
-LOCATION    : PUNE, MAHARASHTRA
-
-CURRENTLY   : LEARNING LLMs, RAG,
-              CLOUD & MLOPS
-
-STATUS      : AVAILABLE FOR INTERNSHIPS
-              AND OPEN SOURCE COLLABORATION
-```
-
-### SYSTEM DESCRIPTION
-
-🤖 Passionate about **Machine Learning, Data Science & Generative AI**
-
-📊 Completed the **100 Days of Data Science Challenge**
-
-💻 Building **AI-Powered Applications & Developer Tools**
-
-🧠 Exploring **LLMs, RAG Systems & Agentic AI**
+🤖 Exploring **Large Language Models, RAG Systems & AI Agents**
 
 ☁️ Learning **Cloud Computing, MLOps & System Design**
 
-🚀 Mission: **Become a World-Class AI Engineer**
+🔥 Successfully completed the **100 Days of Data Science Challenge**
+
+🚀 Building real-world AI applications and developer tools
+
+📍 Pune, Maharashtra, India
+
+🤝 Open to internships, collaborations and open-source contributions
 
 ---
 
-# ⚡ TECHNOLOGY MODULES
+# 💻 Tech Stack
 
-## 🐍 Programming Core
+### Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 </p>
 
----
-
-## 🧠 Machine Learning Engine
+### Data Science & Machine Learning
 
 <p align="center">
 
@@ -120,39 +78,35 @@ STATUS      : AVAILABLE FOR INTERNSHIPS
 
 </p>
 
----
-
-## 🌐 Full Stack Systems
+### Full Stack Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,express,tailwind" />
-
 </p>
 
----
-
-## 🗄 Database Systems
+### Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-
 </p>
 
----
-
-## ⚙️ Development Tools
+### Tools & Platforms
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-
 </p>
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pankaj24112005&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -172,7 +126,7 @@ STATUS      : AVAILABLE FOR INTERNSHIPS
 
 ---
 
-# 📈 NEURAL NETWORK ACTIVITY
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -181,185 +135,86 @@ STATUS      : AVAILABLE FOR INTERNSHIPS
 </div>
 
 ---
-# 🚀 ACTIVE MISSIONS
-
-## 📊 CUSTOMER BEHAVIOR ANALYSIS
+# ⚡ Current Focus
 
 ```text
-MISSION STATUS : COMPLETED ✅
-
-TECH STACK:
-━━━━━━━━━━━━━━━━━━━━━
-
-• Python
-• Pandas
-• NumPy
-• Matplotlib
-• Seaborn
-• SQL
-
-OBJECTIVES:
-━━━━━━━━━━━━━━━━━━━━━
-
-✓ Data Cleaning
-✓ Exploratory Data Analysis
-✓ Customer Segmentation
-✓ Business Intelligence
-✓ Data Visualization
+🔭 Building      : AI & Data Science Projects
+🌱 Learning      : LLMs, RAG, MLOps & Cloud Computing
+👯 Collaborating : Open Source Projects
+💬 Ask Me About  : Python, SQL, ML, Data Science & GenAI
+🎯 Goal          : Become an AI Engineer
 ```
 
 ---
 
-## 🔗 QRBRIDGE
+# 🚀 Featured Projects
 
-```text
-MISSION STATUS : DEPLOYED 🚀
+## 📊 Customer Behavior Analysis
 
-TECH STACK:
-━━━━━━━━━━━━━━━━━━━━━
-
-• Python
-• Flask
-• QRCode Library
-• Render
-
-OBJECTIVES:
-━━━━━━━━━━━━━━━━━━━━━
-
-✓ Dynamic QR Generation
-✓ File Sharing System
-✓ URL Management
-✓ Cloud Deployment
-```
+* Analyzed customer purchasing patterns using Python & SQL
+* Performed EDA with Pandas, NumPy, Matplotlib & Seaborn
+* Extracted business insights through data visualization
+* Built customer segmentation reports
 
 ---
 
-## 🤖 WHATSAPP MESSAGE SCHEDULER
+## 🔗 QRBridge
 
-```text
-MISSION STATUS : OPERATIONAL ⚡
-
-TECH STACK:
-━━━━━━━━━━━━━━━━━━━━━
-
-• Python
-• Twilio API
-• Scheduling Systems
-
-OBJECTIVES:
-━━━━━━━━━━━━━━━━━━━━━
-
-✓ Automated Messaging
-✓ Scheduled Delivery
-✓ Real-Time Notifications
-```
+* QR-Based File & URL Sharing Platform
+* Dynamic QR Code Generation
+* Flask Backend with Render Deployment
+* Fast and Secure Sharing System
 
 ---
 
-## 📚 STUDENT GRADES MANAGEMENT SYSTEM
+## 🤖 WhatsApp Message Scheduler
 
-```text
-MISSION STATUS : COMPLETED ✅
-
-TECH STACK:
-━━━━━━━━━━━━━━━━━━━━━
-
-• Python
-• Tkinter
-
-OBJECTIVES:
-━━━━━━━━━━━━━━━━━━━━━
-
-✓ CRUD Operations
-✓ Student Management
-✓ Desktop GUI Development
-```
+* Automated WhatsApp Message Scheduling
+* Twilio API Integration
+* Python-Based Automation Tool
+* Custom Date & Time Scheduling
 
 ---
 
-## 💳 GOOGLE PAY UPI QR GENERATOR
+## 📚 Student Grades Management System
 
-```text
-MISSION STATUS : COMPLETED ✅
-
-TECH STACK:
-━━━━━━━━━━━━━━━━━━━━━
-
-• Python
-• Tkinter
-• QRCode Library
-
-OBJECTIVES:
-━━━━━━━━━━━━━━━━━━━━━
-
-✓ Dynamic UPI QR Generation
-✓ Payment Automation
-✓ Desktop Application
-```
+* Desktop Application built with Python Tkinter
+* Student Record Management System
+* CRUD Operations
+* Interactive GUI Interface
 
 ---
 
-# ⚡ CURRENT OPERATIONS
+## 💳 Google Pay UPI QR Generator
+
+* Dynamic UPI QR Code Generation
+* Python Tkinter Application
+* Instant Payment QR Creation
+* User-Friendly Desktop Interface
+
+---
+
+# 📚 Currently Learning
 
 ```text
-AI CORE STATUS REPORT
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Large Language Models (LLMs)
 
-MACHINE LEARNING    ███████████░ 90%
+✓ Retrieval-Augmented Generation (RAG)
 
-DATA SCIENCE        ████████████ 95%
+✓ MLOps & Cloud Computing
 
-GENAI & LLMs        ███████░░░░░ 70%
-
-FULL STACK DEV      ████████░░░░ 80%
-
-MLOPS & CLOUD       █████░░░░░░░ 50%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CURRENT OBJECTIVES:
+✓ System Design
 
 ✓ Advanced SQL
-✓ Large Language Models
-✓ Retrieval Augmented Generation
-✓ Cloud Computing
-✓ System Design
-✓ MLOps Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Deep Learning
 
-PRIMARY MISSION:
-
-BECOME AN AI ENGINEER
+✓ Open Source Contributions
 ```
 
 ---
 
-# 📚 KNOWLEDGE EXPANSION
-
-```text
-LOADING KNOWLEDGE MODULES...
-
-[██████████████████████] 100%
-
-✓ ADVANCED PYTHON
-
-✓ MACHINE LEARNING
-
-✓ LARGE LANGUAGE MODELS
-
-✓ RAG SYSTEMS
-
-✓ MLOPS & CLOUD
-
-✓ SYSTEM DESIGN
-
-✓ OPEN SOURCE CONTRIBUTIONS
-```
-
----
-
-# 🌐 COMMUNICATION CHANNELS
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -379,47 +234,22 @@ LOADING KNOWLEDGE MODULES...
 
 ---
 
-# 💭 J.A.R.V.I.S QUOTE ENGINE
+# 💭 Developer Quote
 
-<div align="center">
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-# ⚡ J.A.R.V.I.S SYSTEM REPORT
+### ⭐ Thanks for visiting my profile!
 
-```text
-SYSTEM STATUS:
+### 🚀 Learn. Build. Share. Repeat.
 
-AI CORE ............... ONLINE
+> *"Small consistent efforts create extraordinary results."*
 
-DATA SCIENCE .......... ONLINE
-
-MACHINE LEARNING ...... ONLINE
-
-FULL STACK SYSTEMS .... ONLINE
-
-CLOUD MODULES ......... LOADING
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-MISSION:
-
-BUILD THE FUTURE WITH AI
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-"Small consistent efforts
-create extraordinary results."
-```
-
-### ⭐ THANK YOU FOR VISITING MY PROFILE
-
-**J.A.R.V.I.S v1.0 — Powered by Curiosity, Code & Consistency**
+Building the future with AI, one project at a time.
 
 </div>
